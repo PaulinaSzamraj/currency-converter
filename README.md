@@ -14,7 +14,7 @@ The first currency calculator I made allows you to convert the amount in PLN int
  5. CZK
  6. RMB
  
- ###Exchange rates come from the website nbp.pl of 04.04.2023 (Table No. 066/A/NBP/2023).
+ ### Exchange rates come from the website nbp.pl of 04.04.2023 (Table No. 066/A/NBP/2023).
 
 ## Features
 
