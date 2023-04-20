@@ -1,7 +1,6 @@
 # Currency calculator
 
-![enter image description here](https://i.postimg.cc/qqV5hdMK/currency-converter.png)
-
+![enter image description here](https://ibb.co/4Z3f9k9)
 ## Demo
 https://paulinaszamraj.github.io/currency-converter/
 
